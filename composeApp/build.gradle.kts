@@ -102,8 +102,8 @@ compose {
                 packageName = mPackageName
                 packageVersion = "1.0.0"
                 description = mPackageName
-                copyright = "© 2024 leavesCZY. All rights reserved."
-                vendor = "leavesCZY"
+                copyright = "© 2021 leavesczy. All rights reserved."
+                vendor = "leavesczy"
                 val resourcesDir = project.file("../composeApp/src/desktopMain/resources")
                 windows {
                     menuGroup = packageName
